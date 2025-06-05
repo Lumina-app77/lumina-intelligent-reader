@@ -1,0 +1,57 @@
+📚 PROMPT PARA CREAR UNA APLICACIÓN DE LECTURA INTELIGENTE Y ACELERADA CON TODAS SUS FUNCIONALIDADES ESENCIALES. 
+
+🧭 Propósito central 
+Desarrolla una aplicación inteligente, moderna e interactiva cuyo objetivo clave es permitir que el usuario lea un libro en el menor tiempo posible, extrayendo con eficacia el conocimiento esencial, las ideas principales, la coherencia del mensaje central y su aplicación práctica, sin necesidad de leerlo completo, a través de herramientas de resumen, análisis y visualización estructurada. 
+
+🧠 FUNCIONES PRINCIPALES 
+🔍 Exploración rápida e inteligente del libro 
+Identificación automática de: 
+Capítulos, subtítulos y divisiones temáticas. 
+Tesis central del libro. 
+Estructura argumentativa y flujo lógico. 
+Conceptos clave y términos recurrentes. 
+🧑‍💻 Resumen inteligente por niveles 
+Tres niveles de profundidad: 
+Ultracorto (1-2 minutos): Idea general, propuesta principal, autores clave. 
+Medio (5-7 minutos): Resumen estructurado por secciones con puntos claves. 
+Profundo (10-15 minutos): Análisis detallado con citas, ejemplos y aplicaciones. 
+✨ Análisis temático y aplicativo 
+Extracción de: 
+Principios rectores del autor. 
+Dilemas, ideas controversiales o esenciales. 
+Aplicaciones prácticas por tema. 
+Ejemplos actuales del contenido en acción. 
+🗂️ Carga y gestión de PDFs 
+El usuario puede subir cualquier libro en PDF. 
+El sistema organiza por temas, autores, niveles de lectura o propósito (devocional, académico, profesional). 
+Los archivos permanecen disponibles para futuras consultas y se pueden integrar entre sí. 
+🧾 Modo lectura asistida 
+Botones de: “🔍 Extraer tesis”, “📌 Ver ideas clave”, “🧠 Aplicar contenido”, “📤 Exportar resumen”. 
+Lectura por bloques con resumen al final de cada sección. 
+Opcional: subrayado automático de frases esenciales. 
+
+🎨 INTERFAZ MODERNA E INTUITIVA 
+Interfaz tipo panel de control con navegación por columnas. 
+Dashboard inicial con: 
+Libros recientes, progreso de lectura, sugerencias de nuevos análisis. 
+Botón “⏩ Leer rápido este libro”. 
+Secciones: 
+Biblioteca personal 
+Lecturas rápidas 
+Mis análisis 
+Exportar a impresión / PDF 
+
+📄 EXPORTACIÓN VISUAL Y PROFESIONAL 
+Cada libro procesado podrá ser: 
+Exportado a formato imprimible (PDF) con diseño visual moderno. 
+Editado o personalizado antes de imprimir (título, citas, reflexiones). 
+Compartido o archivado digitalmente. 
+
+🛠️ TECNOLOGÍA Y MOTOR DE IA 
+LLMs integrados (Gemini 2.5 Flash, ChatGPT-4, Claude 3). 
+Procesamiento en segundo plano del contenido PDF. 
+Técnicas de compresión semántica, análisis temático y vectorización textual. 
+UI construida en React + Tailwind, con almacenamiento en Firebase/Supabase. 
+
+📌 OBJETIVO FINAL DE LA APP 
+Crear una experiencia de lectura acelerada, sin perder comprensión, coherencia ni mensaje, enfocada en ayudar al lector a apropiarse del conocimiento esencial de un libro sin necesidad de leerlo completo, y aplicar ese conocimiento de forma inmediata y útil. 
